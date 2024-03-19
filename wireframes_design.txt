@@ -1,0 +1,37 @@
+Wireframes Design for Travel Booking System:
+
+1. Home Page Wireframe:
+- Header with logo and navigation menu
+- Search bar for destination and dates
+- Featured destinations section
+- Call to action buttons for booking
+
+2. Search Results Page Wireframe:
+- Filter options for refining search results
+- List of available accommodations with prices and ratings
+- Booking button for each accommodation
+
+3. Accommodation Details Page Wireframe:
+- Accommodation details such as description, amenities, and photos
+- Reviews and ratings section
+- Booking form with options for dates and number of guests
+
+4. User Profile Page Wireframe:
+- User information section
+- Booking history with details of past trips
+- Option to edit profile and change password
+
+5. Payment Page Wireframe:
+- Summary of booking details
+- Payment form with options for card details
+- Confirmation button for completing the transaction
+
+6. Error Page Wireframe:
+- Display error message with option to return to previous page
+- Contact information for customer support
+
+7. Confirmation Page Wireframe:
+- Confirmation message for successful booking
+- Details of the booking including booking ID and itinerary
+- Option to download booking confirmation
+
